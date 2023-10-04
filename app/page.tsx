@@ -4,6 +4,8 @@ import HeroCarousel from '@/components/HeroCarousel';
 import ProductCard from '@/components/ProductCard';
 import { getAllProducts } from '@/lib/actions';
 
+export const revalidate = 0;
+
 const Home = async () => {
   const allProducts = await getAllProducts();
 
