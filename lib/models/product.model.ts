@@ -10,7 +10,7 @@ const productSchema = new mongoose.Schema(
     originalPrice: { type: Number, required: true },
     priceHistory: [
       {
-        prices: { type: Number, required: true },
+        price: { type: Number, required: true },
         date: { type: Date, default: Date.now },
       },
     ],
