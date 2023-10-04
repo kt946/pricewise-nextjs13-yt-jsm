@@ -1,6 +1,6 @@
 # Pricewise Ecommerce Nextjs.13 Web Scraping Price Tracker 
 
-![pricewise-homepage](https://github.com/kt946/pricewise-nextjs13-yt-jsm/assets/103476893/573d5f26-b62c-4d76-9fcd-6c9622991fc3, 'Pricewise homepage')
+![pricewise-homepage](https://github.com/kt946/pricewise-nextjs13-yt-jsm/assets/103476893/0a113047-b4d8-4a63-a599-9b79bc994449, 'Pricewise homepage')
 
 ## Description
 
