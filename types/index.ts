@@ -37,5 +37,5 @@ export type EmailContent = {
 export type EmailProductInfo = {
   title: string;
   url: string;
-  image: string;
+  image?: string;
 };
