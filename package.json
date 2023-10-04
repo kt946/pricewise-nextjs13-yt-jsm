@@ -9,16 +9,19 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@headlessui/react": "^1.7.17",
     "axios": "^1.5.1",
     "cheerio": "^1.0.0-rc.12",
     "mongoose": "^7.5.3",
     "next": "13.5.4",
+    "nodemailer": "^6.9.5",
     "react": "^18",
     "react-dom": "^18",
     "react-responsive-carousel": "^3.2.23"
   },
   "devDependencies": {
     "@types/node": "^20",
+    "@types/nodemailer": "^6.4.11",
     "@types/react": "^18",
     "@types/react-dom": "^18",
     "autoprefixer": "^10",

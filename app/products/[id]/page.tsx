@@ -1,3 +1,4 @@
+import Modal from '@/components/Modal';
 import PriceInfoCard from '@/components/PriceInfoCard';
 import ProductCard from '@/components/ProductCard';
 import { getProductById, getSimilarProducts } from '@/lib/actions';
@@ -137,7 +138,8 @@ const ProductDetails = async ({ params: { id } }: Props) => {
               />
             </div>
           </div>
-          Modal
+
+          <Modal productId={id} />
         </div>
       </div>
 
@@ -170,7 +172,10 @@ const ProductDetails = async ({ params: { id } }: Props) => {
 
           <div className="flex flex-wrap gap-10 mt-7 w-full">
             {similarProducts.map((product) => (
-              <ProductCard key={product._id} product={product} />
+              <ProductCard
+                key={product._id}
+                product={product}
+              />
             ))}
           </div>
         </div>
