@@ -1,4 +1,10 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Pricewise Ecommerce Nextjs.13 Web Scraping Price Tracker 
+
+![pricewise-homepage](https://github.com/kt946/pricewise-nextjs13-yt-jsm/assets/103476893/573d5f26-b62c-4d76-9fcd-6c9622991fc3, 'Pricewise homepage')
+
+## Description
+
+This project is an ecommerce web scraping price tracker for Amazon products. It was built using a YouTube tutorial by [JavaScript Mastery](https://www.youtube.com/watch?v=lh9XVGv6BHs).
 
 ## Getting Started
 
